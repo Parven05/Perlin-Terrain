@@ -1,0 +1,29 @@
+﻿  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  main.cpp
+C:\Users\Parven\Documents\Raylib\PerlinTerrain\main.cpp(19,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Parven\Documents\Raylib\PerlinTerrain\main.cpp(50,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Parven\Documents\Raylib\PerlinTerrain\main.cpp(105,37): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\Parven\Documents\Raylib\PerlinTerrain\main.cpp(105,37): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Parven\Documents\Raylib\PerlinTerrain\main.cpp(105,76): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\Parven\Documents\Raylib\PerlinTerrain\main.cpp(105,76): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Parven\Documents\Raylib\PerlinTerrain\main.cpp(106,44): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\Parven\Documents\Raylib\PerlinTerrain\main.cpp(106,44): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Parven\Documents\Raylib\PerlinTerrain\main.cpp(106,83): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\Parven\Documents\Raylib\PerlinTerrain\main.cpp(106,83): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Parven\Documents\Raylib\PerlinTerrain\main.cpp(107,36): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\Parven\Documents\Raylib\PerlinTerrain\main.cpp(107,36): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Parven\Documents\Raylib\PerlinTerrain\main.cpp(107,83): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\Parven\Documents\Raylib\PerlinTerrain\main.cpp(107,83): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Parven\Documents\Raylib\PerlinTerrain\main.cpp(108,45): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\Parven\Documents\Raylib\PerlinTerrain\main.cpp(108,45): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Parven\Documents\Raylib\PerlinTerrain\main.cpp(108,92): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\Parven\Documents\Raylib\PerlinTerrain\main.cpp(108,92): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  rlImGui.cpp
+  Generating Code...
+  PerlinTerrain.vcxproj -> C:\Users\Parven\Documents\Raylib\PerlinTerrain\x64\Debug\PerlinTerrain.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
