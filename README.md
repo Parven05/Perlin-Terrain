@@ -5,7 +5,6 @@
 ## **Terrain Generation using Perlin Noise**
 ![Perlin](https://github.com/user-attachments/assets/14231ded-5d8f-4e77-bd1f-d7eebe26b511)
 
-## **Introduction:**
 A simple experiment using Perlin noise to generate and visualize terrain in Raylib. It maps noise values into smooth, natural heightmaps for exploring procedural generation and rendering.
 
 Features:
